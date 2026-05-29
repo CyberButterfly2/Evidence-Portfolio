@@ -1,1 +1,1 @@
-Welcome to my page! Please take a look at the SOC Analyst projects that I have completed! Thanks!
+Practical SOC Analyst projects with documented evidence and findings.
